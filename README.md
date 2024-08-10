@@ -21,6 +21,8 @@ Im currently working on Bunny Themes<br>I’m currently learning C# and C++
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+<a href="https://api.statusbadges.me/openspotify/1126614446643609704" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/1126614446643609704" alt="spotify"></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=I-795&icon=0&color=0)](https://visitcount.itsvg.in)
 
